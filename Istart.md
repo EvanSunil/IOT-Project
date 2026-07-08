@@ -8,4 +8,4 @@
 
 [cheetsheet linhk](https://www.markdownguide.org/cheat-sheet/)
 
-![image](
+![image](https://en.wikipedia.org/wiki/Image)
